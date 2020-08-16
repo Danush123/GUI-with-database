@@ -4,4 +4,4 @@
 * New products can be added, existing products' stocks can be updated and products can be deleted
 * When the stock level of a particular product goes below a certain level, it will raise a notification to the user
 
-call.py is the first instance of the application
+start.py is the first instance of the application
